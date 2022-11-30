@@ -8,3 +8,4 @@ function getCount(str) {
     return count;
   }
   
+  console.log(getCount("yes i have no bananas"));
